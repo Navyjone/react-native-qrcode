@@ -3,7 +3,7 @@ A react-native component to generate [QRcode](http://en.wikipedia.org/wiki/QR_co
 
 ## Installation
 ```sh
-npm install react-native-qrcode --save
+npm install react-native-qrcode-nvj --save
 ```
 ## Usage
 ```jsx
