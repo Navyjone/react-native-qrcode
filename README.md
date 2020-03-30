@@ -10,7 +10,7 @@ npm install react-native-qrcode-nvj --save
 'use strict';
 
 import React, { Component } from 'react'
-import QRCode from 'react-native-qrcode';
+import QRCode from 'react-native-qrcode-nvj';
 
 import {
     AppRegistry,
